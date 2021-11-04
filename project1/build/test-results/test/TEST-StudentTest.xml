@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="StudentTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-11-04T13:06:35" hostname="LAPTOP-UN0KDC9N" time="0.039">
+  <properties/>
+  <testcase name="getUsername()" classname="StudentTest" time="0.039"/>
+  <system-out><![CDATA[jimmy
+jimmy3
+jimmy3
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
